@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Michael Stucki <michael@stucki.io>
+MAINTAINER Ajay Nataraj <ajaynataraj26121997@gmail.com>
 
 
 ENV \
